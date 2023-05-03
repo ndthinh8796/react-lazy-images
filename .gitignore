@@ -2,7 +2,6 @@
 microbundle/
 ts-build/
 node_modules/
-dist/
 ts-build/
 public/
 cached/
